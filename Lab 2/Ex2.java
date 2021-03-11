@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//Ex2
 public class SortString {
 	public String[] sort(String[] s) {
 		for (int i = 0; i < s.length / 2; i++) {
